@@ -20,6 +20,9 @@ module.exports = {
   babel: {
     exclude: []
   },
+  buble: {
+    exclude: []
+  },
   moduleName: 'defineReactive',
   alias
 }
