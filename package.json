@@ -1,6 +1,6 @@
 {
   "name": "vue-define-reactive",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Standalone package for Vue.util.defineReactive",
   "repository": {
     "url": "egoist/vue-define-reactive",
