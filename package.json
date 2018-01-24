@@ -17,7 +17,6 @@
   },
   "author": "egoist <0x142857@gmail.com>",
   "license": "MIT",
-  "dependencies": {},
   "devDependencies": {
     "bili": "^2.0.0-alpha.0",
     "vue": "^2.5.13"
