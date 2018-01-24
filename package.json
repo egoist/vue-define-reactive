@@ -1,0 +1,26 @@
+{
+  "name": "vue-define-reactive",
+  "version": "0.0.0",
+  "description": "Standalone package for Vue.util.defineReactive",
+  "repository": {
+    "url": "egoist/vue-define-reactive",
+    "type": "git"
+  },
+  "main": "dist/vue-define-reactive.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "test": " && echo 'no tests!'",
+    "prepublish": "npm run build",
+    "build": "bili",
+    "postinstall": "node -e \"console.log('\\u001b[35m\\u001b[1mLove vue-define-reactive? You can now donate to support the author:\\u001b[22m\\u001b[39m\\n> \\u001b[34mhttps://patreon.com/egoist\\u001b[0m')\""
+  },
+  "author": "egoist <0x142857@gmail.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "bili": "^2.0.0-alpha.0",
+    "vue": "^2.5.13"
+  }
+}
